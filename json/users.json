@@ -1,0 +1,39 @@
+{"user":[
+  {
+    "id":1,
+    "name":"shilpa",
+    "age":23,
+    "address": {
+      "street":"aaa",
+      "colony":"ahf"
+    }
+  },
+  {
+    "id":2,
+    "name":"swati",
+    "age":23,
+    "address": {
+      "street":"bbb",
+      "colony":"dds"
+    }
+  },
+  {
+    "id":3,
+    "name":"tanvi",
+    "age":23,
+    "address": {
+      "street":"ccc",
+      "colony":"dsf"
+    }
+  },
+  {
+    "id":4,
+    "name":"pranali",
+    "age":23,
+    "address": {
+      "street":"gfhf",
+      "colony":"dgdg"
+    }
+  }
+]
+}
